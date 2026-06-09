@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <line x1="24" y1="24" x2="44" y2="24" stroke="#7dd3fc" stroke-width="1.5" stroke-opacity="0.4" />
+  <line x1="24" y1="24" x2="38.1" y2="38.1" stroke="#7dd3fc" stroke-width="1.5" stroke-opacity="0.4" />
+  <line x1="24" y1="24" x2="24" y2="44" stroke="#7dd3fc" stroke-width="1.5" stroke-opacity="0.4" />
+  <line x1="24" y1="24" x2="9.9" y2="38.1" stroke="#7dd3fc" stroke-width="1.5" stroke-opacity="0.4" />
+  <line x1="24" y1="24" x2="4" y2="24" stroke="#7dd3fc" stroke-width="1.5" stroke-opacity="0.4" />
+  <line x1="24" y1="24" x2="9.9" y2="9.9" stroke="#7dd3fc" stroke-width="1.5" stroke-opacity="0.4" />
+  <line x1="24" y1="24" x2="24" y2="4" stroke="#7dd3fc" stroke-width="1.5" stroke-opacity="0.4" />
+  <line x1="24" y1="24" x2="38.1" y2="9.9" stroke="#7dd3fc" stroke-width="1.5" stroke-opacity="0.4" />
+
+  <circle cx="44" cy="24" r="2.5" fill="#c4b5fd" />
+  <circle cx="38.1" cy="38.1" r="2.5" fill="#86efac" />
+  <circle cx="24" cy="44" r="2.5" fill="#fcd34d" />
+  <circle cx="9.9" cy="38.1" r="2.5" fill="#f9a8d4" />
+  <circle cx="4" cy="24" r="2.5" fill="#67e8f9" />
+  <circle cx="9.9" cy="9.9" r="2.5" fill="#fdba74" />
+  <circle cx="24" cy="4" r="2.5" fill="#93c5fd" />
+  <circle cx="38.1" cy="9.9" r="2.5" fill="#d8b4fe" />
+
+  <circle cx="24" cy="24" r="5" fill="#7dd3fc" />
+</svg>
