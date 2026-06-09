@@ -119,6 +119,8 @@ Para uma experiência completa, siga este fluxo:
    - Use o **Botão Esquerdo do mouse** para interagir com os nós (conceitos) e ativar o _Lock-on_.
 3. **Interação com Terminal:** Ao "voar" para um nó, a câmera travará. Utilize os botões interativos no painel do terminal físico (HUD) para salvar o mapa ou retornar à biblioteca.
 
+<img width="762" height="352" alt="Image" src="https://github.com/user-attachments/assets/d6068f63-57fb-4bd8-8833-73bd2229d950" />
+
 ## Equipe
 
 - **João Eduardo Viana da Silva** (Tech Lead)
