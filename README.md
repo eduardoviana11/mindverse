@@ -1,3 +1,5 @@
+<img width="1156" height="165" alt="Image" src="https://github.com/user-attachments/assets/3f8e1b04-c359-4cea-a775-22f596f744a5" />
+
 # MindVerse
 
 ## Sobre o projeto
